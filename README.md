@@ -8,7 +8,7 @@ The script extracts the product price, stores it in a CSV file, and runs automat
  
 ## What this project does ## 
 - Tracks the price of an Amazon product
-- Saves daily price data with date   
+- Saves daily price data with date    
 - Automates the process using Task Scheduler
 - Stores data for analysis
 
