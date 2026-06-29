@@ -6,7 +6,7 @@ This is a simple Python project to track the price of an Amazon product automati
 I selected a product on Amazon and built a Python script to track its price daily.
 The script extracts the product price, stores it in a CSV file, and runs automatically using Windows Task Scheduler.
  
-## What this project does ##
+## What this project does ## 
 - Tracks the price of an Amazon product
 - Saves daily price data with date   
 - Automates the process using Task Scheduler
