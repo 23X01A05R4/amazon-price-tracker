@@ -1,4 +1,4 @@
-#### Amazon Price Tracker ##### 
+#### Amazon Price Tracker #####  
 
 This is a simple Python project to track the price of an Amazon product automatically.
 
